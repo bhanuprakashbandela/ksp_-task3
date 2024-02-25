@@ -1,0 +1,32 @@
+h1{
+    color: blueviolet;
+    font-size: 60px;
+    font-family:sans-serif;
+
+  }
+  .class1{
+    color: aquamarine;
+    border:5px solid rebeccapurple;
+    margin:60px;
+    padding:20px;
+  }
+  h2{
+    color: black;
+  }
+  .class2{
+    color: blue;
+  }
+  h5{
+    color: brown;
+  }
+  #sample1 {
+    color: brown;
+  }
+  #sample{
+    color: rgb(127, 255, 206);
+  }
+
+
+    
+
+
